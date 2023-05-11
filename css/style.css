@@ -1,0 +1,30 @@
+@charset "utf-8";
+body{
+	font-family: "Montserrat";
+}
+
+.titulo{
+	font-family: "Oswald";
+}
+
+#hero{
+	background-image: url("../img/header_bg.jpg")
+}
+
+#hero h1{
+	color: #fff;
+}
+
+#coaches{
+	background-color: #f3f3f3;
+}
+#gallery{
+	background-color: #f3f3f3;
+}
+
+#gallery h1{ 
+	font-size: 14px;
+}
+footer {
+	color: #000000;
+}
